@@ -1,0 +1,5 @@
+c:\users\dell\documents\visual studio 2013\Projects\5homework\5homework\bin\Debug\5homework.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\5homework\5homework\bin\Debug\5homework.exe
+c:\users\dell\documents\visual studio 2013\Projects\5homework\5homework\bin\Debug\5homework.pdb
+c:\users\dell\documents\visual studio 2013\Projects\5homework\5homework\obj\Debug\5homework.exe
+c:\users\dell\documents\visual studio 2013\Projects\5homework\5homework\obj\Debug\5homework.pdb
