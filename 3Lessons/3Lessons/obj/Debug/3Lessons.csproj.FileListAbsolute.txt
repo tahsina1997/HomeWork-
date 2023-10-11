@@ -1,0 +1,6 @@
+c:\users\dell\documents\visual studio 2013\Projects\3Lessons\3Lessons\bin\Debug\3Lessons.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\3Lessons\3Lessons\obj\Debug\3Lessons.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\3Lessons\3Lessons\bin\Debug\3Lessons.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\3Lessons\3Lessons\bin\Debug\3Lessons.pdb
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\3Lessons\3Lessons\obj\Debug\3Lessons.exe
+C:\Users\Dell\Documents\Visual Studio 2013\Projects\3Lessons\3Lessons\obj\Debug\3Lessons.pdb
